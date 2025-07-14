@@ -1,6 +1,7 @@
 Zomato Restaurant Rating Prediction / Zomato Restaurant Rating Prediction
 
 Bu proje, Zomato restoran veri setini kullanarak restoran yemek puanlarını tahmin etmeyi amaçlayan bir makine öğrenmesi çalışmasıdır. Üç farklı algoritmaya sahip model karşılaştırılmış ve performansları değerlendirilmiştir.
+
 This project aims to predict restaurant food ratings using the Zomato restaurant dataset through machine learning. Three different algorithmic models have been compared and their performances evaluated.
 
 📊 Veri Seti
