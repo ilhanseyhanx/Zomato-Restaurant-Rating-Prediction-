@@ -7,16 +7,16 @@ This project aims to predict restaurant food ratings using the Zomato restaurant
 📊 Veri Seti
 Kullanılan veri seti enhanced_zomato_dataset_clean.csv dosyasında bulunmaktadır ve aşağıdaki özelliklere sahiptir:
 
-Toplam Kayıt: 123,657 satır
-Özellik Sayısı: 26 sütun
-Hedef Değişken: Dining_Rating (Restoran yemek puanı)
+*Toplam Kayıt: 123,657 satır
+*Özellik Sayısı: 26 sütun
+*Hedef Değişken: Dining_Rating (Restoran yemek puanı)
 
 📊 Dataset
 The dataset used is stored in enhanced_zomato_dataset_clean.csv file with the following characteristics:
 
-Total Records: 123,657 rows
-Feature Count: 26 columns
-Target Variable: Dining_Rating (Restaurant food rating)
+*Total Records: 123,657 rows
+*Feature Count: 26 columns
+*Target Variable: Dining_Rating (Restaurant food rating)
 
 Veri Seti Özellikleri:
 
